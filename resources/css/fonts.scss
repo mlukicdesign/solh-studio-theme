@@ -1,0 +1,33 @@
+/* _fonts.scss */
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../fonts/sora/sora-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Sora';
+    src: url('../fonts/sora/sora-semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Sora';
+    src: url('../fonts/sora/sora-bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Afacad';
+    src: url(../fonts/afacad/afacad-regular.woff2) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }

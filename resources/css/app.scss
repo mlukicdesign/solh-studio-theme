@@ -1,0 +1,13 @@
+@use './variables.scss';
+@use 'sections/footer.scss';
+@use './fonts.scss';
+
+
+body {
+    font-family: 'Sora', sans-serif;
+}
+
+p {
+    font-family: 'Afacad', sans-serif;
+    font-size: 1.15rem;
+}
