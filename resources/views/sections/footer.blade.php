@@ -4,7 +4,7 @@
 
   <div class="footer__bottom-row">
     <div class="footer__left-column">
-      <p class="footer__left-column-text">© Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quod eveniet saepe rerum, vero quas corporis quam vitae cumque explicabo fugiat. Perferendis est laudantium ab debitis aspernatur molestiae quas explicabo.</p>
+      <p class="footer__left-column-text">{{ $footer['text'] }}</p>
     </div>
     <div class="footer__right-column">
       <p class="footer__right-column-heading">Get In Touch</p>
